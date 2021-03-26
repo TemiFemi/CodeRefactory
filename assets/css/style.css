@@ -132,6 +132,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* changed background color to a darker contrast */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -141,6 +142,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* changed background color to a darker contrast */
 
 .online-reputation-management {
     margin-bottom: 20px;
@@ -150,7 +152,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* changed background color to a darker contrast */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -186,7 +188,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* changed color to a brighter contrast */
 .footer {
     padding: 30px;
     clear: both;
